@@ -2,4 +2,7 @@
 #=============
 #
 #practice-only
-#line six to be entered via a dev machine
+#rename files 
+#include dev tables for practice data
+#text notes to be used as Python modules
+#fin
