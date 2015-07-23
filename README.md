@@ -2,7 +2,6 @@
 #=============
 #
 #practice-only
-#rename files 
-#include dev tables for practice data
-#text notes to be used as Python modules
-#fin
+most of the code, examples and notes in this branch from
+Sam's Teach Yourself SQL in 24 hours 
+unless otherwise noted.
