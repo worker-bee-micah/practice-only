@@ -1,0 +1,2 @@
+paste this text with script, 
+push directory and contents to origin
