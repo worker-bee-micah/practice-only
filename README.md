@@ -17,5 +17,6 @@ Generators and iterators can be constructed with these core examples.
 
 https://nbviewer.jupyter.org/github/worker-bee-micah/practice-only/blob/master/00_mt_py_functions_tests_loops.ipynb
 
+The coconuts, parrot_archive, Eye_of_Parrot and compressed_parrot_whizzo are outputs from unit tests.
 
 
