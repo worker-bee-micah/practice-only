@@ -1,4 +1,4 @@
-'''
+
 #Header first level
 ###### sixth level header
 Alt-H1 alt-first level
@@ -7,6 +7,8 @@ Alt-H6 alt-first level6
 **Bold** is two asterisks or underscores __before/after__
 Nest **underscores within __asterisks__**
 Strickthrough uses ~~two~~ two  ~~tildes~~
+
+
 **Lists**
 ..*
 1. First ordered list item
@@ -27,9 +29,16 @@ Strickthrough uses ~~two~~ two  ~~tildes~~
 + Or pluses
 ..*
 ..*
+
+
 **Links**
+
+
 [This is a basic inline-style link](https://remojo.net)
+
+
 [Inline with a title](https://remojo.net "Remojo Scientific LLC")
+
 
 Below is my logo, (hover to see the title text):
 
@@ -42,9 +51,11 @@ Reference-style:
 
 
 **Syntax Highlighting**
+
+
 Not all renderers will support syntax highlighting.
 Inline `code` has `back-ticks around` it.
-Multiline code blocks use three back-ticks and the language in lowercase
+Multiline code blocks use three back-ticks and the language in lowercase. e.g. ```python
 ```python
 code_block = "THis is s0m\ne code: that needs work"
 print(code_block) if else:
@@ -59,15 +70,18 @@ alert(s);
 |column two is   | centered       | Quercus       |
 |African Swallows| are neat       | Coconuts      |
 |There must be   |three dashes se |parating the   |
-|Header. Outer   | Pipes are opt  |ional.         |
+|header. Outer   | Pipes are opt  |ional.         |
 |Inline is an    | option also.   |  Semprini     |
 
-Markdown | Less | Pretty
+Markdown | Less | Semprini
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
+
 **Blockquotes**
+
+
 >Blockquotes are created with a greater than sign in the first column.
 >This line should be part of the quote above.
 
@@ -89,6 +103,7 @@ Raw HTML should work also, maybe. Kinda
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+
 **Horizontal Rule**
 Three or more...
 ---
@@ -104,10 +119,11 @@ ___
 
 Here's a line for us to start with.
 
+
 This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
 
 This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
 
 Now you have to answer to the ^bridge ^^keeper.
-'''
