@@ -18,13 +18,13 @@ Generators and iterators can be constructed with these core examples.
 The coconuts, parrot_archive, Eye_of_Parrot and compressed_parrot_whizzo are outputs from unit tests. The DnD_dice.py and bridge_keeper.py are used for IF ELSE examples.
 
 
-Two notebooks for building analysis applicatins with the pandas library:
+Two notebooks for building analysis applicatins with the *pandas* library:
 
 
-[00_mt_pd_dataframes_series]
+[00_mt_pd_dataframes_series](https://nbviewer.jupyter.org/github/worker-bee-micah/practice-only/blob/master/00_mt_pd_dataframes_series.ipynb)
 
 
-[01_mt_pd_IO_save]
+[01_mt_pd_IO_save](https://nbviewer.jupyter.org/github/worker-bee-micah/practice-only/blob/master/01_mt_pd_IO_save.ipynb)
 
 
 
