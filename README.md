@@ -31,6 +31,6 @@ Two notebooks for building analysis applicatins with the *pandas* library, the f
 The source code for this notebook came from a training module by {'author' : 'Janani Ravi', 'title' : 'Visualizing Statistical Data Using Seaborn', 'site' : 'pluralsight.com'}
 This notebook contains basic examples for plotting columns after importing CSV files. e.g. a failed bank list, a TPS report, and bike path usage graph.
 
-[01_mt_pd_csv_read](https://github.com/worker-bee-micah/practice-only/blob/master/01_mt_pd_csv_read.ipynb)
+[01_mt_pd_csv_read](https://nbviewer.jupyter.org/github/worker-bee-micah/practice-only/blob/master/01_mt_pd_csv_read.ipynb)
 
 
